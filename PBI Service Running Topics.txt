@@ -1,0 +1,25 @@
+
+Storing reports, sharing access, managing security
+
+a) PBI CLoud understanding, Azure components, Report Server-completed
+b) Workspace creation-completed
+c) Workspace items adding-completed
+d) Create NO RLS and RLS reports
+e) Uploading NO RLS and RLS reports
+f)  Create appspace 
+g) Accessing appspace with another account(as a manager)
+    Browse from browser and mobile app.
+    Note: RLS reports not accessible till users added to roles
+
+
+
+Actual user workspace level report, dataset, dataflow etc. operations
+
+
+
+
+
+
+
+
+
